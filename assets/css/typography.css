@@ -1,0 +1,67 @@
+.text-size-16px{
+    font-size: var(--size-md);
+}
+
+.font-500{
+    font-weight: 500;
+}
+
+.bg-white{
+    background-color: #FFF;
+}
+
+.color-white{
+    color: #FFF;
+}
+
+.mt-4px{
+    margin-top: 4px;
+}
+
+.ml-10px{
+    margin-left: 10px;
+}
+
+.mt-32px{
+    margin-top: 32px;
+}
+
+.p-16px{
+    padding: 16px;
+}
+
+.p-24px{
+    padding: 24px;
+}
+
+.p-72px{
+    padding: 72px;
+}
+
+.box-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.border-radius-4px{
+    border-radius: 4px;
+}
+
+.border-radius-8px{
+    border-radius: 8px;
+}
+
+.btn-default{
+    border: none;
+    outline: none;
+}
+
+.width-112px{
+    width: 112px;
+}
+
+.height-108px{
+    height: 108px;
+}

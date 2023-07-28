@@ -1,0 +1,61 @@
+.icon-32px{
+    width: 32px;
+    height: 32px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.icon-22px{
+    width: 22px;
+    height: 22px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.icon-search{
+    background-image: url('../icons/searchsvg.svg');
+}
+
+.icon-button{
+    background-image: url('../icons/button.svg');
+}
+
+.icon-sofa{
+    background-image: url('../icons/sofa.svg');
+}
+
+.icon-home{
+    background-image: url('../icons/home.svg');
+}
+
+.icon-third{
+    background-image: url('../icons/third.svg');
+}
+
+.icon-fourth{
+    background-image: url('../icons/fourth.svg');
+}
+
+.icon-fifth{
+    background-image: url('../icons/item5.svg');
+}
+
+.icon-sixth{
+    background-image: url('../icons/item6.svg');
+}
+
+.icon-seventh{
+    background-image: url('../icons/item7.svg');
+}
+
+.icon-eight{
+    background-image: url('../icons/item8.svg');
+}
